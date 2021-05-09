@@ -1,0 +1,626 @@
+
+  .redcolourcode {
+    background-color: #F32028;
+  }
+  .redcolourcode2, .price {
+    color: #F32028;
+  }
+  .redcolourcode1 {
+    background-color: #8f1b1f;
+  }
+  .redcolourcode3 {
+    color: #8f1b1f;
+  }
+  .bodycode {
+      background-color: #0d0d0d;
+  }
+  .footercode {
+      background-color: #0F131F;
+  }
+  .greycode {
+      background-color: #6e6e6e;
+  }
+  .greycode1, .accesories {
+      color: #6e6e6e;
+  }
+  #simba-logo {
+    position: float;
+    float: left;
+    margin-top: 4vh;
+    margin-left: 2vw;
+  }
+  #search {
+    position: float;
+    float: center;
+    width: 48vw;
+    margin-top: 4vh;
+    margin-left: 10vw;
+    display: float;
+    float: left;
+    height: 8vh;
+    border: 2px solid;
+  }
+  .emailer{
+    position: float;
+    float: center;
+    width: 48vw;
+    margin-top: 4vh;
+    margin-left: 10vw;
+    display: float;
+    float: left;
+    height: 8vh;
+  }
+  .emailer input{
+    width: 80%;
+    height: 60px;
+    margin-left: 200px;
+  }
+  .emailer button{
+    margin-left: 415px;
+    position: absolute;
+    margin-top: -65px;
+    height: 65px;
+    width: 15%;
+    color: white;
+    background-color: #8f1b1f;
+  }
+  #search input, button{
+    border: none;
+  }
+  #search  button {
+    width: 10%;
+    height: 95%;
+    margin: 2px;
+    border-radius: 5px;
+  }
+  #search  button i{
+    color: White;
+  }
+  #mitsubishi-logo {
+    position: float;
+    float: right;
+    margin-left: 10vw;
+  }
+  .measure{
+      width : 90%;
+      height : 50px;
+  }
+  #servicenparts{
+      background-image: url("../MITSUBISHI LANDING/Service-and-Parts.png");
+      background-size: 100% 100%;
+  }
+  .invert{
+    transform: rotate(180deg);
+  }
+.flexbox-container {
+	display: -ms-flex;
+	display: -webkit-flex;
+	display: flex;
+}
+.white{
+  color: white;
+}
+.height1{
+  height: 8vh;
+}
+select{
+  text-align: center;
+  margin-left: 5vw;
+  border: none;
+}
+.labels{
+  text-align: center;
+  margin-left: 5vw;
+  margin-top: 20px;
+  border: none;
+}
+.img1{
+  height: 24px;
+  width: 24px;
+}
+.img2{
+  height: 36px;
+  width: 36px;
+}
+.pos1{
+  margin-top: 15px;
+}
+#side-images{
+  margin-left: 12vw;
+}
+#side-images img{
+  margin-left: 2vw;
+}
+#servicenparts{
+  height: 35vh;
+  padding-top: 30vh;
+}
+#servicenparts img{
+  height: 30px;
+  width: 45px;
+  margin-left: 4vw;
+  opacity: 0.7;
+}
+.rad{
+  object-fit: contain;
+}
+.aut{
+  margin-left: 50vw;
+  height: 18vh;
+  width: 55vh;
+  padding-left: 40px;
+  margin-top: -5vh;
+  background: rgba(0, 0, 0, 0.4);
+}
+.op{
+  width: 90vw;
+  align-self: center;
+  margin-top: 4vw;
+}
+.op ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: block;
+  text-align: center;
+}
+li {
+  float: left;
+}
+li a {  
+  text-decoration: none;
+  color: #6e6e6e;
+  margin-left: 2vw;
+}
+.textcolor{
+  color: #6e6e6e;
+}
+.product{
+  font-size: 25px;
+}
+nav .right{
+  margin-left: 50vw;
+  align-self: right;
+}
+.activer{
+  border-bottom: 5px solid #F32028;
+  padding-bottom: 5px;
+}
+.hr1{
+  margin-top: 8px;
+  margin-left: 2vw;
+  border: 1px solid #6e6e6e;
+  width: 1130px;
+  float: left;
+}
+.left{
+  float: left;
+}
+.right{
+  float: right;
+}
+.sticker{
+  background-color:#F32028;
+  color: white;
+  height: 20px;
+  width: 40px;
+  text-align: bottom;
+}
+.sale{
+  margin-top: -5.5vh;
+  margin-right: 1vw;
+}
+.img3{
+  width: 240px;
+  height: 200px;
+}
+.img4{
+  width: 200px;
+  height: 180px;
+}
+.topsellingproduct{
+  margin-left: 5vw;
+  box-shadow: 15px 10px 15px #6e6e6e;
+  padding-left: 10px;
+  margin-top: 5vh;
+}
+.imgborder{
+  width: 25px;
+  height: 20px;
+  padding: 5px;
+  margin-left: 10px;
+  border-radius: 5px;
+}
+.padd{
+  padding-top: 8vh;
+}
+.padd-left{
+  padding-left: 5px;
+}
+
+#category hr {
+  border: 1px solid #F32028;
+  width:87%;
+  text-align:left;
+}
+.magtop{
+  margin-top: 10vh;
+}
+#category{
+  width: 100%;
+  font-size: 25px;
+  align-content: left;
+}
+.image-category{
+  margin: 25px;
+}
+.catimage{
+  margin-left: 45px;
+  text-align: center;
+}
+.prev{
+  position: absolute;
+  margin-top: 70px;
+  margin-left: 1vw;
+}
+.prev1{
+  position: absolute;
+  margin-top: -220px;
+  margin-left: 90vw;
+}
+.parr{
+  margin-left: 90px;
+}
+.width{
+  width: 100%;
+}
+.shopnow{
+  margin: 50px;
+}
+.padtop{
+  padding-top: 50px;
+}
+.sticker1{
+  background-color:#F32028;
+  color: white;
+  height: 20px;
+  width: 40px;
+  text-align: bottom;
+}
+.width1{
+  width: 46%;
+}
+.save{
+  margin-left: 5vw;
+  margin-top: 10vh;
+}
+.prev3{
+  position: absolute;
+  margin-top: 30vh;
+  margin-left: 45px;
+  opacity: 0.6;
+}
+.prev4{
+  margin-top: 30vh;
+  margin-left: -20px;
+  opacity: 0.6;
+}
+.product hr {
+  width:87%;
+  text-align:left;
+}
+.product p{
+  margin-left: 6vw;
+}
+.product{
+  margin-top: 5vw;
+}
+.sub1{
+  background-image: url("../MITSUBISHI LANDING/Service-and-Parts.png");
+  height: 70vh;
+  width: 100%;  
+  color: white;
+  text-align: center;
+  padding-top: 50px;
+}
+.sub1 p{
+  font-size: 20px;
+}
+.img4{
+  height: 350px;
+  width: 400px;
+}
+.deal-count{
+  margin-left: 5vw;
+  margin-top: -8vh;
+}
+TD {
+  padding-left: 2vw;
+}
+.time{
+  border: 1px solid #6e6e6e;
+  margin-left: 2vw;
+}
+.inch{
+  font-size: 40px;
+  margin-left: 2vw;
+}
+.deal{
+  padding-top: 50px;
+  margin-left: 2vw;
+}
+.sticker6{
+  background-color: #F32028;
+  width: 110px;
+  height: 40px;
+  text-align: center;
+  padding-top: 14px;
+  border-radius: 5px;
+  margin-left: 2vw;
+}
+.deal1{
+  width: 70%;
+  /* position: absolute; */
+  margin-top: -30vh;
+  margin-left: 15vw;
+  opacity: 1;
+  background-color: white;
+  margin-bottom: 10vh;
+}
+.rated{
+  padding: 55px;
+}
+.img5{
+  height: 124px;
+  width: 124px;
+  border-radius: 5px;
+}
+.the-rate{
+  margin-left: 5vw;
+  margin-top: 2vh;
+  padding: 35px;
+}
+.ratedmid, .ratedleft{
+  border-right-color: white;
+  border-right-style:  solid;
+  
+}
+.foot{
+  background-image: url("../MITSUBISHI LANDING/Service-and-Parts.png");
+  height: 50vh;
+  color: white;
+}
+.footy{
+  margin-left: 10vw;
+}
+.center{
+  height: 8vh;
+  padding-top: 1vh;
+  text-align: center;
+}
+
+
+
+
+.mithead{
+  background-image: url("../MITSUBISHI LANDING/Hero Image.jpg");
+  background-size: 100% 100%;
+  height: 90vh;
+  color: white;
+}
+.log, .car hr{
+  margin: 5vh;
+}
+.mitmid{
+  padding-top:12vh;
+  font-size: 50px;
+  width: 100%;
+}
+.mitmid p{
+  margin-left: 20vw;
+}
+.img6{
+  height: 100px;
+  width: 50px;
+}
+.ali{
+  margin-left: 9vw;
+}
+.ali1{
+  padding-left: 17vw;
+}
+.headbottom{
+  margin-top:18vh;
+  font-size: 15px;
+  width: 100%;
+}
+.bottomright{
+  margin-left: 60vw;
+}
+.bottomleft{
+  margin-left: 6vw;
+}
+.customer{
+  margin-left: 5vw;
+  padding: 10px;
+}
+.simlo{
+  margin-left: 5vw;
+}
+.quote{
+  text-align: center;
+  font-size: 20px;
+}
+.quote1{
+  background-color:#F32028;
+  border-radius: 35px;
+  width: 250px;
+  height: 40px;
+  padding-top: 15px;
+  margin-left: 5vw;
+}
+.quote2{
+  border: 5px solid white;
+  border-radius: 35px;
+  width: 250px;
+  height: 40px;
+  padding-top: 15px;
+  margin-left: 5vw;
+}
+.imn{
+  background-color: white;
+  height: 35vh;
+  width: 100%;
+  border-top-right-radius: 15px;
+  border-top-left-radius: 15px;
+}
+.car{
+  border-bottom: 1px solid white;
+  border-top: 1px solid white;
+  border-right: 1px solid white;
+  border-left: 1px solid white;
+  border-radius: 15px;
+}
+.carA{
+  border-bottom: 1px solid white;
+  border-top: 1px solid white;
+  border-left: 1px solid white;
+  border-radius: 15px;
+}
+.carB{
+  border-bottom: 1px solid white;
+  border-top: 1px solid white;
+  border-right: 1px solid white;
+  border-radius: 15px;
+}
+.select{
+  margin-left: 8%;
+  margin-top: 10vh;
+}
+.selec p{
+  padding-top: 20px;
+}
+.size{
+  margin-top: -6vh;
+  margin-left: 2vw;
+}
+.quicksearch{
+  width: 85%;
+  height: 40vh;
+  border-radius: 15px;
+  margin-left: 5vw;
+  margin-top: 10vh;
+}
+.inputs{
+  font-size: 15px;
+  border: 1px solid;
+  height: 90px;
+}
+.inputs p{
+  text-align: center;
+  color: #6e6e6e;
+}
+.inputs {
+  text-align: left;
+  height: 25px;
+  width: 150px;
+  border-radius: 10px;
+  background-color: white;
+}
+.foott{
+  height: 80vh;
+}
+.the-search{
+  padding: 20px;
+}
+.con1{
+  height: 40px;
+  width: 150px;
+  margin-top: 40px;
+}
+.greycode4{
+  background-color: #dfd9d9;
+}
+.borderless{
+  border: none;
+}
+.the-search1{
+  font-size: 15px;
+}
+.the-search1 td{
+  text-align: left;
+}
+.td1 select{
+  margin-left: -5px;
+}
+.td1 .budget{
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 5px;
+}
+.td1 .budget1{
+  position: absolute;
+  margin-top: -15px;
+  margin-left: 45px;
+}
+.t-search{
+  text-align: left;
+  height: 25px;
+  width: 150px;
+  border-radius: 10px;
+  background-color: #F32028;
+}
+.tabl{
+  position: absolute;
+  margin-top: -50px;
+  margin-left: 5px;
+}
+.height1 li a {  
+  text-decoration: none;
+  color: #6e6e6e;
+  margin-left: 2vw;
+}
+.height1 ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: block;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+}
+.height1 li{
+  list-style-type: none;
+  margin-left: 60px;
+  padding: 0;
+  display: block;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+}
+ .hr2{
+  margin-top: -5px;
+  border: 5px solid #F32028;
+  width: 100%;
+  float: left;
+  position: absolute;
+}
+.height1{
+  padding-top: 60px
+}
+.nav1{
+  border-bottom: 5px solid #F32028;
+}
+.active{
+  background-color: #F32028;
+  position: relative;
+  margin-top: -60px;
+  height: 19vh;
+  width: 15vw;
+  transform: skew(-25deg);
+}
+.cicle{
+  background-color: white;
+  border-radius: 8px;
+  height: 3px;
+}
