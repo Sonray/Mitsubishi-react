@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Mitsubishi-react/static/css/main.b767def8.chunk.css",
+    "main.js": "/Mitsubishi-react/static/js/main.6df280e4.chunk.js",
+    "main.js.map": "/Mitsubishi-react/static/js/main.6df280e4.chunk.js.map",
+    "runtime-main.js": "/Mitsubishi-react/static/js/runtime-main.ac571313.js",
+    "runtime-main.js.map": "/Mitsubishi-react/static/js/runtime-main.ac571313.js.map",
+    "static/js/2.228b203d.chunk.js": "/Mitsubishi-react/static/js/2.228b203d.chunk.js",
+    "static/js/2.228b203d.chunk.js.map": "/Mitsubishi-react/static/js/2.228b203d.chunk.js.map",
+    "static/js/3.6d4cf82c.chunk.js": "/Mitsubishi-react/static/js/3.6d4cf82c.chunk.js",
+    "static/js/3.6d4cf82c.chunk.js.map": "/Mitsubishi-react/static/js/3.6d4cf82c.chunk.js.map",
+    "index.html": "/Mitsubishi-react/index.html",
+    "static/css/main.b767def8.chunk.css.map": "/Mitsubishi-react/static/css/main.b767def8.chunk.css.map",
+    "static/js/2.228b203d.chunk.js.LICENSE.txt": "/Mitsubishi-react/static/js/2.228b203d.chunk.js.LICENSE.txt",
+    "static/media/Advert Banner.64b25c77.png": "/Mitsubishi-react/static/media/Advert Banner.64b25c77.png",
+    "static/media/Car 3.f03fa98e.png": "/Mitsubishi-react/static/media/Car 3.f03fa98e.png",
+    "static/media/styles.css": "/Mitsubishi-react/static/media/Service-and-Parts.86786bbc.png",
+    "static/media/car 1.5f503575.png": "/Mitsubishi-react/static/media/car 1.5f503575.png",
+    "static/media/car 2.14c111be.png": "/Mitsubishi-react/static/media/car 2.14c111be.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac571313.js",
+    "static/js/2.228b203d.chunk.js",
+    "static/css/main.b767def8.chunk.css",
+    "static/js/main.6df280e4.chunk.js"
+  ]
+}
